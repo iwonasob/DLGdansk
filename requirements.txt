@@ -43,7 +43,7 @@ multiprocessing==2.6.2.1
 nbconvert==5.3.1
 nbformat==4.4.0
 networkx==2.0
-notebook==5.5.0
+notebook==6.1.5
 numba==0.35.0
 numpy==1.13.3
 olefile==0.44
